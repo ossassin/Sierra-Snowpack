@@ -1,4 +1,4 @@
-# Sierra-Snowpack Decline
+# Sierra Snowpack Decline
 This was a statistical study of snowpack in the Sierra Nevada Mountains for investigating effects of climate change as part of a statistics course. The data was taken from datadryad.org – the research article can be found in the final report – which looked at the daily Snowpack depth i.e. depth of unmelted snow on the ground and temperature measures in the Sierra Nevada mountain range from 1979 to 2019. The time horizon of this dataset made it interesting for a study into the effects of climate change. We ran t-tests and found a statistically significant result that average max temperature in the region had risen by ~2 degrees centigrade. Additionally, we visualized correlations between max temperature and snowpack depth over time. Lastly, we created a panel regression model for predicting snowpack depth using temperature. 
 
 For a in-depth look at the code and results, download the uploaded files along with the data files that we cleaned.
